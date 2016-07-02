@@ -4,7 +4,7 @@
     "isShellCommand": true,
     "args": [],
     "options":  {
-        "cwd": "${workspaceRoot}/app.tests/"
+        "cwd": "${workspaceRoot}"
     },
     "tasks": [
         {
