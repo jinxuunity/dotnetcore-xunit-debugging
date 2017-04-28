@@ -1,4 +1,5 @@
 # netcore-xunit-debugging
+Update:  The reason for this [See this post](https://github.com/OmniSharp/omnisharp-vscode/issues/252).
 
 Update:  [See this post](http://stackoverflow.com/questions/38146011/debugging-xunit-tests-in-net-core-and-visual-studio-code/38155706?noredirect=1#comment64151912_38155706).
 
